@@ -1,6 +1,6 @@
 # Navigation
 
-- 
+- Widget utama: HomeScreen. Berisi beberapa tombol (ElevatedButton atau TextButton) untuk navigasi ke halaman lain.
 ![Image](https://github.com/user-attachments/assets/b81f0211-4d73-4573-9233-a6c9171b4fd5)
 
 - 
